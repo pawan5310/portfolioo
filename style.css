@@ -794,7 +794,7 @@
 }
 
 
-    .scroll-top.visible {
+    /* .scroll-top.visible {
       opacity: 1;
       visibility: visible;
     }
@@ -804,7 +804,7 @@
       border-color: var(--primary-color);
       transform: translateY(-5px);
       box-shadow: var(--shadow-primary);
-    }
+    } */
 
     /* Loading Animation */
     .loading {
