@@ -141,11 +141,17 @@ Includes:
 ## 🚀 Performance Enhancements
 
 ✔ Lazy image loading
+
 ✔ Preloaded fonts
+
 ✔ Debounced resize events
+
 ✔ Intersection observers for animations
+
 ✔ Smooth scroll powered by CSS variables
+
 ✔ Session scroll restore
+
 ✔ Offline status detection
 
 ---
